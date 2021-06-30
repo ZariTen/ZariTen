@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente sou estudante da UFRN em TI
 - 🌱 Aprendendo HTML, JS, Python e outras coisas.
-- ☺️ Ainda tentando crescer na área de programação, sem muita experiência ainda.
 
 ### Estatísticas 🧐
 
