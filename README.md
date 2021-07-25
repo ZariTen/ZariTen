@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil 🤝
 
 - 🔭 Atualmente sou estudante da UFRN em TI
-- 🌱 Aprendendo HTML, JS, Python e outras coisas.
+- 🌱 Aprendendo HTML, JS, TS, Node.JS e Python.
 
 ### Estatísticas 🧐
 
