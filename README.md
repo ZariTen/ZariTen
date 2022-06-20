@@ -2,8 +2,8 @@
 
 - 🔭 Estudande de Bacharelado de TI na UFRN
 - 🌱 Atualmente estudando Rust, NodeJs, Python, SQL
-- 📖 Atualmente lendo: Introdução à Linguagem SQL 
-- 📕 Futuros livros para ler: Projeto de Algoritmos com implementação em Java e C++, Programação Web com Node e Express
+- 📖 Atualmente lendo: Programação Web com Node e Express
+- 📕 Futuros livros para ler: Projeto de Algoritmos com implementação em Java e C++
 
 
 ### Tecnologias que me auxiliam 💻
