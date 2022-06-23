@@ -2,6 +2,7 @@
 
 - 🔭 Estudande de Bacharelado de TI na UFRN
 - 🌱 Atualmente estudando Rust, NodeJs, Python, SQL
+- 📚 Atualmente estagiando no Dataprev
 - 📖 Atualmente lendo: Programação Web com Node e Express
 - 📕 Futuros livros para ler: Projeto de Algoritmos com implementação em Java e C++
 
