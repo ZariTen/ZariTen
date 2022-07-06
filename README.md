@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo ao meu perfil 🤝
 
-- 🔭 Estudande de Bacharelado de TI na UFRN
+- 🔭 Estudande de Bacharelado de TI
 - 🌱 Atualmente estudando Rust, NodeJs, Python, SQL
-- 📚 Atualmente estagiando no Dataprev
+- 📚 Atualmente estagiando
 - 📖 Atualmente lendo: Programação Web com Node e Express
 - 📕 Futuros livros para ler: Projeto de Algoritmos com implementação em Java e C++
 
