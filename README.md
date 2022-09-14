@@ -6,11 +6,10 @@
 
 ### Ferramentas que me auxiliam 💻
 
-![Fedora](https://img.shields.io/badge/Fedora_36-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![AMD](https://img.shields.io/badge/AMD-Ryzen-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 ![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
