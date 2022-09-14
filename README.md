@@ -3,6 +3,7 @@
 - 🔭 Estudande de Bacharelado de TI
 - 🌱 Atualmente estudando SQL, Rust, Java, Docker.
 - 📚 Atualmente estagiando
+- 🐧 Gosto muito de GNU/Linux
 
 ### Ferramentas que me auxiliam 💻
 
