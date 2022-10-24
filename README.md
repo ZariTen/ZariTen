@@ -3,8 +3,8 @@
 ## Algumas informações
 
 - 🔭 Estudande de Bacharelado de TI
-- 🌱 Atualmente estudando SQL, Rust, Java, Docker.
-- 📚 Atualmente estagiando
+- 🌱 Atualmente estudando Algoritmos, Arquitetura de Software, Machine Learning, Java, Rust.
+- 📚 Estagiário
 - 🐧 Gosto muito de GNU/Linux
 
 ### Ferramentas que me auxiliam 💻
