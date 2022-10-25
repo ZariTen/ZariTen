@@ -1,13 +1,13 @@
-# Bem-vindo ao meu repositório GIT 🤝
+# Welcome to my GIT repository 🤝
 
-## Algumas informações
+## Some information about me
 
-- 🔭 Estudande de Bacharelado de TI
-- 🌱 Atualmente estudando Algoritmos, Arquitetura de Software, Machine Learning, Java, Rust.
-- 📚 Estagiário
-- 🐧 Gosto muito de GNU/Linux
+- 🔭 IT Bachelor's Degree Student
+- 🌱 Currently studying Algorithms, Software Architecture, ML, Java, Rust
+- 📚 Intern
+- 🐧 I really like GNU/Linux
 
-### Ferramentas que me auxiliam 💻
+### Tools that help me 💻
 
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -19,7 +19,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Tecnologias que utilizo 🧐
+### Technologies that i use 🧐
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -35,7 +35,7 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Me encontre aqui 👋
+### Find me here 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-adriano-9592a0211/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/236953323394170881)
