@@ -1,12 +1,5 @@
 # Welcome to my GIT repository 🤝
 
-## Some information about me
-
-- 🔭 IT Bachelor's Degree Student
-- 🌱 Currently studying Algorithms, Software Architecture, ML, Java, Rust
-- 📚 Intern
-- 🐧 I really like GNU/Linux
-
 ### Tools 💻
 
 ![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
