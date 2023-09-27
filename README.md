@@ -1,8 +1,8 @@
 # Hi, I'm Victor 👋
 
-### Intern working with Python, PySpark, SQL, Linux and Big Data 🌐
+Intern working with Python, PySpark, SQL, Linux and Big Data 🌐
 
-### Currently studying Rust, Docker, Kubernetes 💻
+Currently studying Rust, Docker, Kubernetes 💻
 
 ## 🛠️ Tools & Hardware
 
