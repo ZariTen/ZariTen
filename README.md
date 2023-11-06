@@ -1,8 +1,8 @@
-# Hi, I'm Victor 👋
+# Hi, I'm Victor (Or Zariten)👋
 
 Intern working with Python, PySpark, SQL, Linux and Big Data 🌐
 
-Currently studying Rust, Docker, Kubernetes 💻
+Currently studying Rust, Podman, Kubernetes, WebDev 💻
 
 ## 🛠️ Tools & Hardware
 
