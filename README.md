@@ -1,6 +1,6 @@
 # Hi, I'm Victor (Or Zariten)👋
 
-Intern working with Python, PySpark, SQL, Linux and Big Data 🌐
+Intern working with Data Engineering, Python, PySpark, SQL and Linux 🌐
 
 Currently studying Rust, Podman, Kubernetes, WebDev 💻
 
@@ -30,4 +30,3 @@ Currently studying Rust, Podman, Kubernetes, WebDev 💻
 ## 🌐 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-adriano-9592a0211/)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@zariten)<a rel="me" href="https://mastodon.social/@zariten"></a>
