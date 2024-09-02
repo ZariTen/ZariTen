@@ -1,6 +1,6 @@
 # Hi, I'm Victor (Or Zariten)👋
 
-Profissional experience with Data Engineering, Python, PySpark, SQL and Linux 🌐
+Professional experience with Data Engineering, Python, PySpark, SQL and Linux 🌐
 
 Currently studying Rust, Podman, Kubernetes, WebDev 💻
 
