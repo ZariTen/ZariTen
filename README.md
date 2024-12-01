@@ -1,4 +1,4 @@
-# Hi, I'm Victor (Or Zariten)👋
+# Hi, I'm Zariten (Or Victor) 👋
 
 Professional experience with Data Engineering, Python, PySpark, SQL and Linux 🌐
 
