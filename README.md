@@ -35,8 +35,3 @@ Currently studying Rust, Podman, Kubernetes, WebDev 💻
 ## 📊 GitHub Stats  
 
 ![Zari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zariten&show_icons=true&theme=tokyonight)  
-
-## 🌍 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)  
