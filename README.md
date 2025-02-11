@@ -1,7 +1,5 @@
 # Hi, I'm Zari (or Victor) 👋  
 
-🚀 **Data Engineer | Pythonista | Open Source Enthusiast**  
-
 Professional experience with Data Engineering, Python, PySpark, SQL and Linux 🌐
 
 Currently studying Rust, Podman, Kubernetes, WebDev 💻
