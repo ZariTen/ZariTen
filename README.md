@@ -29,7 +29,3 @@ Currently studying Rust, Podman, Kubernetes, WebDev 💻
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats  
-
-![Zari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zariten&show_icons=true&theme=tokyonight)  
