@@ -9,7 +9,7 @@ Currently studying Rust, Podman, Kubernetes, WebDev 💻
 - **Languages**: Python, Rust, Java, TypeScript, SQL  
 - **Data & Databases**: PostgreSQL, SQLite, PySpark  
 - **DevOps & Tools**: Docker, Kubernetes, Podman, Git  
-- **OS & Editors**: Linux (NixOS), NeoVim, LazyVim, VSCode  
+- **OS & Editors**: Linux , NeoVim, LazyVim 
 
 ### 🔧 Tools & Technologies  
 
