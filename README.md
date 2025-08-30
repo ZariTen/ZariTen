@@ -2,8 +2,6 @@
 
 Professional experience with Data Engineering, Python, PySpark, SQL and Linux 🌐
 
-Currently studying Rust, Podman, Kubernetes, WebDev 💻
-
 ## 🛠️ Tech Stack  
 
 - **Languages**: Python, Rust, Java, TypeScript, SQL  
