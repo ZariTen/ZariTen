@@ -2,6 +2,8 @@
 
 Professional experience with Data Engineering, Python, PySpark, SQL and Linux
 
+🌐 **Personal Website:** [zariten.com](https://zariten.com)
+
 ## 🛠️ Tech Stack  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
