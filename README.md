@@ -1,23 +1,19 @@
-# I'm Zari (Victor)
+# <img src="./assets/wordmark.svg" width="236" alt="Zari.TEN">
 
-Professional experience with Data Engineering, Python, PySpark, SQL and Linux
+I'm Victor (Zari). [zariten.com](https://zariten.com/)
 
-🌐 **Personal Website:** [zariten.com](https://zariten.com)
+## `01` Data engineering
 
-## 🛠️ Tech Stack  
+- **[Urban Mobility Pipeline](https://github.com/ZariTen/projeto-dados-pl)** · Bus ridership and GPS data from Belo Horizonte
+- **[SELIC Data Pipeline](https://github.com/ZariTen/airflow-selic)** · Monthly and yearly summaries of Brazil's SELIC rate
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+## `02` Developer tools
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)](#)
+- **[ZariBox](https://github.com/ZariTen/ZariBox)** · Podman dev environments from a YAML file
+- **[ZariNotes](https://github.com/ZariTen/ZariNotes)** · Offline Markdown editor for Linux
+- **[ZariShell](https://github.com/ZariTen/ZariShell)** · Quickshell setup for Hyprland
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-[![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)](#)
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)](#)
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white)](#)
+## `03` Apps
+
+- **[Zari.Fit on Google Play](https://play.google.com/store/apps/details?id=com.zariten.zarifit)** · Offline step counter for Android, no account needed
+- **[Zari.FM](https://fm.zariten.com/)** · Last.fm listening stats and shareable cards
