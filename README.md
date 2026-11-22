@@ -15,5 +15,5 @@ I'm Victor (Zari). [zariten.com](https://zariten.com/)
 
 ## `03` Apps
 
-- **[Zari.Fit on Google Play](https://play.google.com/store/apps/details?id=com.zariten.zarifit)** · Offline step counter for Android, no account needed
+- **[Zari.Fit on Google Play](https://play.google.com/store/apps/details?id=com.zariten.zarifit)** · Step counter for Android
 - **[Zari.FM](https://fm.zariten.com/)** · Last.fm listening stats and shareable cards
