@@ -11,7 +11,6 @@ I'm Victor (Zari). [zariten.com](https://zariten.com/)
 
 - **[ZariBox](https://github.com/ZariTen/ZariBox)** · Podman dev environments from a YAML file
 - **[ZariNotes](https://github.com/ZariTen/ZariNotes)** · Offline Markdown editor for Linux
-- **[ZariShell](https://github.com/ZariTen/ZariShell)** · Quickshell setup for Hyprland
 
 ## `03` Apps
 
